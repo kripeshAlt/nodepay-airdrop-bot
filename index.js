@@ -1,4 +1,3 @@
-require('colors');
 const Config = require('./src/config');
 const Bot = require('./src/bot');
 const initLogger = require('./src/logger');
